@@ -8,7 +8,6 @@
 - **ISC2 Candidate**
   
 - **Google Cybersecurity Certificate**  
-  *Issued by Google*
 
 ### 🔨 Projects
 - **SANS BootUp Capture-the-Flag (CTF) Competition**  
