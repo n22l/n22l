@@ -29,6 +29,7 @@
 - **Security Tools**: IAM (e.g., Okta), SIEM, IDS/IPS, Network Scanning Tools (e.g., Nmap), Network Protocol Analyzers (e.g., Wireshark), Traffic Analysis Tools, Brute Force and Exploitation Tools (e.g., Hydra), Password Cracking Tools (e.g., John the Ripper, Wordlists), Steganography Tools (e.g., Steghide, Binwalk, Exiftool), Buffer Overflow Exploitation Tools (e.g., Pattern_create, Pattern_offset from Metasploit), File Analysis Tools (e.g., Binwalk, Strings).
 - **Programming and Scripting**: Python, SQL, HTML.
 - **Operating Systems**: Linux, Windows, macOS.
-- **Frameworks and Standards**: NIST Cybersecurity Framework.
-- **Digital Media and Web Development**: WordPress, Google Workspace, Microsoft 365, Adobe Photoshop, Adobe Premiere, iMovie, Wix, and Search Engine Optimization (SEO).
+- **Frameworks and Standards**: NIST Cybersecurity Framework, ISO/IEC 27000 Series, HIPAA, PCI DSS, GDPR.
+- **Digital Media and Web Development**: WordPress (CMS), Google Workspace, Microsoft 365, Adobe Photoshop (graphic design), Adobe Premiere Pro (video editing), iMovie (video editing), Wix (website builder), Search Engine Optimization (SEO) tools and techniques (e.g., Google Analytics).
+
 
