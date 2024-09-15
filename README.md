@@ -26,7 +26,7 @@
   My article on quantum computing, titled **‘Harvest Now, Decrypt Later’ Concern Boosts Quantum Security Awareness**, was referenced in Deloitte's 2024 Investment Management Outlook report and 2023 FSI Predictions Report. The piece highlights the growing concern over quantum security threats and the critical need for organizations to invest in quantum-safe encryption.
   
 #### **Technical Skills**
-- **Security Tools**: Okta, SIEM, IDS/IPS, Network Protocol Analyzers, Traffic Analysis Tools.
+- **Security Tools**: Okta, SIEM, IDS/IPS, Network Protocol Analyzers (e.g., Wireshark), Traffic Analysis Tools, Vulnerability Scanning and Exploitation Tools (e.g., Nmap, Hydra), Password Cracking (e.g., John the Ripper, Wordlists), Steganography Tools (e.g., Steghide, Binwalk, Exiftool), Buffer Overflow Exploitation (e.g., Pattern_create, Pattern_offset from Metasploit), File Analysis (e.g., Binwalk, Strings).
 - **Programming and Scripting**: Python, SQL, HTML.
 - **Operating Systems**: Linux, Windows (Active Directory and logging).
 - **Frameworks and Standards**: NIST Cybersecurity Framework.
