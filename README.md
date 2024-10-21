@@ -12,7 +12,6 @@
 ### 🔨 Projects
 
 - **Creating and Implementing A Cybersecurity Program Team Sprint (WiCyS)**
-
   Developed and implemented a comprehensive cybersecurity program for Lemonade through a collaborative Team Sprint, addressing key risks such as AI model 
   security, compliance, and third-party risk management.
 
