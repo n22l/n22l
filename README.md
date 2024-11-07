@@ -5,8 +5,8 @@
 
 
 ### 📜 Licenses & Certifications
-- **ISC2 Candidate**
-  
+- **Certified in Cybersecurity (CC)**
+- **IBM Create and Implement Security Controls**  
 - **Google Cybersecurity Certificate**  
 
 ### 🔨 Projects
