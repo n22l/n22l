@@ -5,11 +5,28 @@
 
 
 ### 📜 Licenses & Certifications
+- **CompTIA Security+**
 - **Certified in Cybersecurity (CC)**
 - **IBM Create and Implement Security Controls**  
-- **Google Cybersecurity Certificate**  
+- **Google Cybersecurity Certificate**
+
+## 🧠 Cybersecurity Writing Portfolio
+
+Explore my hands-on cybersecurity documentation, including incident response playbooks, technical writing samples, and evidence-backed guides.
+
+🔗 **[cyber-writing-portfolio](https://github.com/<your-username>/cyber-writing-portfolio)**
+
+Sample highlight:
+- [Incident Response Playbook: Business Email Compromise (BEC)](https://github.com/<your-username>/cyber-writing-portfolio/blob/main/incident-playbooks/BEC-Incident-Response-Playbook.md)
+
 
 ### 🔨 Projects
+
+- **WiCyS Stage Ready Public Speaking Fellowship**
+  Completed a five-week program with Fearless Communicators that enhanced my ability to deliver clear, confident, and impactful technical presentations.
+
+- **WiCyS AI Learning Series 2025**
+  Finished a six-module program focused on AI security, governance, risk management, and secure AI product development.
 
 - **Creating and Implementing A Cybersecurity Program Team Sprint (WiCyS)**
   Developed and implemented a comprehensive cybersecurity program for Lemonade through a collaborative Team Sprint, addressing key risks such as AI model 
