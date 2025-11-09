@@ -23,7 +23,7 @@ Sample highlight:
 ## 🔨 Projects
 
 - **WiCyS Stage Ready Public Speaking Fellowship**
-  Completed a five-week program with Fearless Communicators that enhanced my ability to deliver clear, confident, and impactful technical presentations.
+  Completed a five-week program with Fearless Communicators that enhanced my ability to deliver clear and impactful technical presentations.
 
 - **WiCyS AI Learning Series 2025**
   Finished a six-module program focused on AI security, governance, risk management, and secure AI product development.
