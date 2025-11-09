@@ -1,5 +1,5 @@
 ## Hi there 👋 
-# I am Nancy Liu - ✨ Tech Media Editor | Cybersecurity Technical Writer ✨ 
+### I am Nancy Liu - ✨ Tech Media Editor | Cybersecurity Technical Writer ✨ 
 
 <a href="[https://linkedin.com](https://www.linkedin.com/in/nancychenyizhiliu/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
