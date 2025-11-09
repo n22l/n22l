@@ -26,6 +26,9 @@ Sample highlight:
 - **WiCyS AI Learning Series 2025**
   Finished a six-module program focused on AI security, governance, risk management, and secure AI product development.
 
+- **Lightning Talk – WiCyS 2025: Breaking News: How Cybersecurity Media Shapes the Industry**
+  Delivered a lightning talk at the Women in Cybersecurity 2025 conference, exploring the role of cybersecurity journalism in crisis response, public perception, and industry collaboration.
+
 - **Creating and Implementing A Cybersecurity Program Team Sprint (WiCyS)**
   Developed and implemented a comprehensive cybersecurity program for Lemonade through a collaborative Team Sprint, addressing key risks such as AI model 
   security, compliance, and third-party risk management.
