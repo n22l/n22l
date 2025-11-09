@@ -22,22 +22,22 @@ Sample highlight:
 
 ## 🔨 Projects
 
-- **WiCyS Stage Ready Public Speaking Fellowship**
+- **WiCyS Stage Ready Public Speaking Fellowship**:
   Completed a five-week program with Fearless Communicators that enhanced my ability to deliver clear and impactful technical presentations.
 
-- **WiCyS AI Learning Series 2025**
+- **WiCyS AI Learning Series 2025**:
   Finished a six-module program focused on AI security, governance, risk management, and secure AI product development.
   
-- **[Creating and Implementing A Cybersecurity Program Team Sprint (WiCyS)](https://github.com/n22l/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)**
+- **[Creating and Implementing A Cybersecurity Program Team Sprint (WiCyS)](https://github.com/n22l/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)**:
   Developed and implemented a comprehensive cybersecurity program for Lemonade through a collaborative Team Sprint.
 
-- **[SANS BootUp Capture-the-Flag (CTF) Competition](https://github.com/n22l/SANS-BootUp-CTF-Competition)**
+- **[SANS BootUp Capture-the-Flag (CTF) Competition](https://github.com/n22l/SANS-BootUp-CTF-Competition)**:
   Participated in hands-on cybersecurity challenges that involved reverse engineering, cryptography, and forensics.
   
-- **72-Hour Game Jam - 10-Second Magic Artist (AI integrated)**
+- **72-Hour Game Jam - 10-Second Magic Artist (AI integrated)**:
   Developed a game with AI-driven art generation in a limited 72-hour competition environment.
 
-- **72-Hour Game Jam - Before the Bang**
+- **72-Hour Game Jam - Before the Bang**:
   Created a time-based game with deep narrative and technical challenges, focusing on strategic gameplay before an impending event.
 
 ## 🏆 Honors & Recognitions:
