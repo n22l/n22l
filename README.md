@@ -25,10 +25,7 @@ Sample highlight:
 
 - **WiCyS AI Learning Series 2025**
   Finished a six-module program focused on AI security, governance, risk management, and secure AI product development.
-
-- **Lightning Talk – WiCyS 2025: Breaking News: How Cybersecurity Media Shapes the Industry**
-  Delivered a lightning talk at the Women in Cybersecurity 2025 conference, exploring the role of cybersecurity journalism in crisis response, public perception, and industry collaboration.
-
+  
 - **Creating and Implementing A Cybersecurity Program Team Sprint (WiCyS)**
   Developed and implemented a comprehensive cybersecurity program for Lemonade through a collaborative Team Sprint, addressing key risks such as AI model 
   security, compliance, and third-party risk management.
@@ -42,7 +39,9 @@ Sample highlight:
 - **72-Hour Game Jam - Before the Bang**  
   Created a time-based game with deep narrative and technical challenges, focusing on strategic gameplay before an impending event.
 
-## 🏆 Honors & Awards
+## 🏆 Honors & Recognitions:
+- **Lightning Talk – WiCyS 2025**
+  Delivered a lightning talk at the Women in Cybersecurity 2025 conference, exploring the role of cybersecurity journalism in crisis response, public perception, and industry collaboration.
 - **WiCyS Security Training Scholarship**  
   *Issued by WiCyS and SANS Institute · September 2024*
 - **Cited in Deloitte's 2024 Investment Management Outlook and 2023 FSI Predictions Report**  
