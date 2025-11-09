@@ -34,10 +34,10 @@ Sample highlight:
 - **[SANS BootUp Capture-the-Flag (CTF) Competition](https://github.com/n22l/SANS-BootUp-CTF-Competition)**
   Participated in hands-on cybersecurity challenges that involved reverse engineering, cryptography, and forensics.
   
-- **72-Hour Game Jam - 10-Second Magic Artist (AI integrated)**  
+- **72-Hour Game Jam - 10-Second Magic Artist (AI integrated)**
   Developed a game with AI-driven art generation in a limited 72-hour competition environment.
 
-- **72-Hour Game Jam - Before the Bang**  
+- **72-Hour Game Jam - Before the Bang**
   Created a time-based game with deep narrative and technical challenges, focusing on strategic gameplay before an impending event.
 
 ## 🏆 Honors & Recognitions:
