@@ -14,10 +14,10 @@
 
 Explore my hands-on cybersecurity documentation, including incident response playbooks, technical writing samples, and evidence-backed guides.
 
-🔗 **[cyber-writing-portfolio](https://github.com/<your-username>/cyber-writing-portfolio)**
+🔗 **[cyber-writing-portfolio](https://github.com/n22l/cyber-writing-portfolio)**
 
 Sample highlight:
-- [Incident Response Playbook: Business Email Compromise (BEC)](https://github.com/<your-username>/cyber-writing-portfolio/blob/main/incident-playbooks/BEC-Incident-Response-Playbook.md)
+- [Incident Response Playbook: Business Email Compromise (BEC)](https://github.com/n22l/cyber-writing-portfolio/blob/main/incident-playbooks/BEC-Incident-Response-Playbook.md)
 
 
 ## 🔨 Projects
