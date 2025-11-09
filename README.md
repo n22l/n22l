@@ -41,10 +41,8 @@ Sample highlight:
   Created a time-based game with deep narrative and technical challenges, focusing on strategic gameplay before an impending event.
 
 ## 🏆 Honors & Recognitions:
-- **Lightning Talk – WiCyS 2025**
-  Delivered a lightning talk at the Women in Cybersecurity 2025 conference, exploring the role of cybersecurity journalism in crisis response, public perception, and industry collaboration.
+- **Lightning Talk – WiCyS 2025**: Delivered a lightning talk at the Women in Cybersecurity 2025 conference, exploring the role of cybersecurity journalism in crisis response, public perception, and industry collaboration.
 - **WiCyS Security Training Scholarship**  
   *Issued by WiCyS and SANS Institute · September 2024*
-- **Cited in Deloitte's 2024 Investment Management Outlook and 2023 FSI Predictions Report**  
-  My article on quantum computing, titled **‘Harvest Now, Decrypt Later’ Concern Boosts Quantum Security Awareness**, was referenced in Deloitte's 2024 Investment Management Outlook report and 2023 FSI Predictions Report. The piece highlights the growing concern over quantum security threats and the critical need for organizations to invest in quantum-safe encryption.
+- **Cited in Deloitte's 2024 Investment Management Outlook and 2023 FSI Predictions Report**: My article on quantum computing, titled "‘Harvest Now, Decrypt Later’ Concern Boosts Quantum Security Awareness," was referenced in Deloitte's 2024 Investment Management Outlook report and 2023 FSI Predictions Report.
   
