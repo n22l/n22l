@@ -18,7 +18,7 @@ Explore my hands-on cybersecurity documentation, including incident response pla
 
 Sample highlight:
 - [Incident Response Playbook: Business Email Compromise (BEC)](https://github.com/n22l/cyber-writing-portfolio/blob/main/incident-playbooks/BEC-Incident-Response-Playbook.md)
-
+- [AI Security: Prompt Injection Defense Guide](https://github.com/n22l/cyber-writing-portfolio/blob/main/ai-security/Prompt-Injection-Defense-Guide.md)
 
 ## 🔨 Projects
 
