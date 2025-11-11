@@ -16,7 +16,7 @@ Explore my hands-on cybersecurity documentation, including incident response pla
 
 🔗 **[cyber-writing-portfolio](https://github.com/n22l/cyber-writing-portfolio)**
 
-## Sample highlight:
+### Sample highlight:
 - [Cloud Misconfiguration Response Guide (Azure primary, AWS appendix)](https://github.com/n22l/cyber-writing-portfolio/blob/main/cloud-security/Azure-Cloud-Misconfiguration-Response-Guide.md)
 - [AI Security: Prompt Injection Defense Guide](https://github.com/n22l/cyber-writing-portfolio/blob/main/ai-security/Prompt-Injection-Defense-Guide.md)
 - [Incident Response Playbook: Business Email Compromise (BEC)](https://github.com/n22l/cyber-writing-portfolio/blob/main/incident-playbooks/BEC-Incident-Response-Playbook.md)
