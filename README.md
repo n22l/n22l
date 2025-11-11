@@ -7,8 +7,10 @@
 ## 📜 Licenses & Certifications
 - **CompTIA Security+**
 - **Certified in Cybersecurity (CC)**
-- **IBM Create and Implement Security Controls**  
+- **Google Technical Writing Courses**
 - **Google Cybersecurity Certificate**
+- **IBM Create and Implement Security Controls**  
+
 
 ## 🧠 Cybersecurity Writing Portfolio
 
