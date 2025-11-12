@@ -1,6 +1,5 @@
 ## Hi there 👋 
 ### I am Nancy Liu - ✨ Tech Media Editor | Cybersecurity Technical Writer ✨ 
-
 <a href="[https://linkedin.com](https://www.linkedin.com/in/nancychenyizhiliu/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -13,7 +12,7 @@
 
 
 ## 🧠 Cybersecurity Writing Portfolio
-
+   I write and edit security documentation that teams can run, test, and audit.
    Explore my hands-on cybersecurity documentation, including incident response playbooks, technical writing samples, and evidence-backed guides.
 
    🔗 **[cyber-writing-portfolio](https://github.com/n22l/cyber-writing-portfolio)**
