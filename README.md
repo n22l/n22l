@@ -1,15 +1,18 @@
 ## Hi there 👋 
-### I am Nancy Liu - ✨ Tech Media Editor | Cybersecurity Technical Writer ✨ 
+### I am Nancy Liu - ✨ Tech Media Editor | AI & Cybersecurity Technical Writer ✨ 
 <a href="[https://linkedin.com](https://www.linkedin.com/in/nancychenyizhiliu/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-## 📜 Licenses & Certifications
+## 🔐 Security Certifications & Credentials
 - **CompTIA Security+**
-- **Certified in Cybersecurity (CC)**
-- **Google Technical Writing Courses**
+- **Certified in Cybersecurity (CC) – ISC2**
 - **Google Cybersecurity Certificate**
-- **IBM Create and Implement Security Controls**  
+- **IBM Create and Implement Security Controls**
 
+## 🤖 AI & Technical Writing Training
+- **WiCyS AI Learning Series**  
+- **Google Technical Writing Courses**
+---
 
 ## 🧠 Cybersecurity Writing Portfolio
    I write and edit security documentation that teams can run, test, and audit.
