@@ -25,7 +25,7 @@
 - [AI Security: Prompt Injection Defense Guide](https://github.com/n22l/cyber-writing-portfolio/blob/main/ai-security/Prompt-Injection-Defense-Guide.md)
 - [Cloud Misconfiguration Response Guide (Azure primary, AWS appendix)](https://github.com/n22l/cyber-writing-portfolio/blob/main/cloud-security/Azure-Cloud-Misconfiguration-Response-Guide.md)
 
-
+---
 ## 🔨 Projects
 
 - **WiCyS Stage Ready Public Speaking Fellowship**:
@@ -45,7 +45,7 @@
 
 - **72-Hour Game Jam - Before the Bang**:
   Created a time-based game with deep narrative and technical challenges, focusing on strategic gameplay before an impending event.
-
+---
 ## 🏆 Honors & Recognitions:
 - **Lightning Talk – WiCyS 2025**: Delivered a lightning talk at the Women in Cybersecurity 2025 conference, exploring the role of cybersecurity journalism in crisis response, public perception, and industry collaboration.
 - **WiCyS Security Training Scholarship**  
