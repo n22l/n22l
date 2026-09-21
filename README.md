@@ -1,6 +1,9 @@
 ## Hi there 👋 
-### I am Nancy Liu - ✨ Tech Media Editor | AI & Cybersecurity ✨ 
+### I am Nancy Liu - ✨ Applied AI | Aerospace Intelligence | Cybersecurity ✨ 
 <a href="[https://linkedin.com](https://www.linkedin.com/in/nancychenyizhiliu/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+**<strong>M.S. Artificial Intelligence Student</strong> – University of Colorado Boulder**
 
 
 ## 🔐 Security Certifications & Credentials
