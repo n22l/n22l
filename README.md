@@ -31,6 +31,16 @@
 ---
 ## 🔨 Projects
 
+### [Bilingual Space Intelligence Engine](https://github.com/n22l/bilingual-space-intelligence)
+
+An independent applied-AI project specifying an evidence-grounded research system for retrieving, comparing, translating, classifying, and citing U.S. and Chinese primary-source aerospace information.
+
+- **Status:** Early development / specification; architecture, source policy, and evaluation design are documented. The research pipeline is not yet implemented.
+- **Planned engineering focus:** English/Chinese retrieval, RAG, document parsing, entity normalization, and structured evidence extraction with traceable citations.
+- **Evidence and evaluation:** Distinguish demonstrated milestones from plans, targets, and uncertain claims; evaluate retrieval relevance, citation correctness, evidence-status classification, and unsupported claims.
+- **First planned use case:** Reusable-rocket economics and launch cadence research for **US–China Space Watch / 中美航天观察**.
+
+
 - **WiCyS Stage Ready Public Speaking Fellowship**:
   Completed a five-week program with Fearless Communicators that enhanced my ability to deliver clear and impactful technical presentations.
 
