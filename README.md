@@ -22,9 +22,9 @@
 An independent applied-AI engineering project developing an evidence-grounded research workflow for complex technical subjects, starting with English- and Chinese-language aerospace sources.
 
 - **Status:** Early development. An initial local text-ingestion, passage-retrieval, and retrieval-evaluation workflow is implemented. Broader research capabilities remain under development.
-- **Implemented scope:** Search prepared English and Chinese text documents and return original passages with source metadata and passage references. Evaluate whether labeled supporting evidence appears among the first five results.
+- **Implemented scope:** Search prepared mutilingual text documents and return original passages with source metadata and passage references. Evaluate whether labeled supporting evidence appears among the first five results.
 - **Evidence and evaluation:** Preserve source attribution and distinguish retrieved evidence from verified conclusions. Current evaluation is preliminary; it does not establish answer accuracy, translation quality, or automatic detection of unsupported questions.
-- **Planned engineering focus:** Document parsing, bilingual entity normalization, structured evidence extraction, and citation-grounded answer generation, with explicit evaluation of each capability.
+- **Planned engineering focus:** Document parsing, mutilingual entity normalization, structured evidence extraction, and citation-grounded answer generation, with explicit evaluation of each capability.
 - **First application:** Reusable-rocket economics and launch-cadence research for **US–China Space Watch / 中美航天观察**. Application to other technical subjects is planned but has not yet been evaluated.
 - **Public/private separation:** Reusable code and synthetic demonstration data belong in the public repository. Production documents, editorial material, research outputs, and private evaluations remain outside Git working trees.
 
