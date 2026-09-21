@@ -17,7 +17,7 @@
 ---
 ## 🔨 Projects
 
-### [Bilingual Technical Research Engine](https://github.com/n22l/bilingual-space-intelligence)
+### [Technical Research Engine](https://github.com/n22l/bilingual-space-intelligence)
 
 An independent applied-AI engineering project developing an evidence-grounded research workflow for complex technical subjects, starting with English- and Chinese-language aerospace sources.
 
