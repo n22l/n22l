@@ -1,5 +1,5 @@
 ## Hi there 👋 
-### I am Nancy Liu - ✨ Applied AI | Aerospace Intelligence | Cybersecurity ✨ 
+### I am Nancy - ✨ Applied AI | Aerospace Intelligence | Cybersecurity ✨ 
 
 **<strong>M.S. Artificial Intelligence Student</strong> – University of Colorado Boulder**
 
@@ -59,10 +59,4 @@ An independent applied-AI engineering project developing an evidence-grounded re
 - [AI Security: Prompt Injection Defense Guide](https://github.com/n22l/cyber-writing-portfolio/blob/main/ai-security/Prompt-Injection-Defense-Guide.md)
 - [Cloud Misconfiguration Response Guide (Azure primary, AWS appendix)](https://github.com/n22l/cyber-writing-portfolio/blob/main/cloud-security/Azure-Cloud-Misconfiguration-Response-Guide.md)
   
----
-## 🏆 Honors & Recognitions:
-- **Lightning Talk – WiCyS 2025**: Delivered a lightning talk at the Women in Cybersecurity 2025 conference, exploring the role of cybersecurity journalism in crisis response, public perception, and industry collaboration.
-- **WiCyS Security Training Scholarship**  
-  *Issued by WiCyS and SANS Institute · September 2024*
-- **Cited in Deloitte's 2024 Investment Management Outlook and 2023 FSI Predictions Report**: My article on quantum computing, titled "‘Harvest Now, Decrypt Later’ Concern Boosts Quantum Security Awareness," was referenced in Deloitte's 2024 Investment Management Outlook report and 2023 FSI Predictions Report.
   
